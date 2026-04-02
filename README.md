@@ -15,6 +15,7 @@ QTrip is a dynamic travel web application where users can explore cities, browse
 
 ## 🌐 Live Demo
 https://qtrip-dynamic-356cysvbu-rahul-kumars-projects-a7d9703f.vercel.app/
+
 ⚠️ Note: The backend may take a few seconds to respond initially due to deployment on free-tier services.
 
 ## 💻 GitHub Repo
